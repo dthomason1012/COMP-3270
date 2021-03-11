@@ -1,0 +1,6 @@
+Name: Daniel Thomason
+AUID: dht0009
+Hours Spent: 13.0 hours
+Consulted With: Chad Beibide (cnb0036)
+Resources Used: Java API (for PriorityQueue and TreeSet), live coding lecture with TA (10/29) 
+Impressions: I really enjoyed learning about the Trie data structure and how it could be implemented. This project was also my first time implementing with a GUI.
